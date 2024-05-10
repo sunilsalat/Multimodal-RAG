@@ -7,3 +7,12 @@ jinja2
 python-multipart
 uvicorn
 tiktoken
+langchain
+unstructured[all-docs]
+pydantic
+lxml
+openai
+faiss-cpu
+tiktoken
+opencv-python
+boto3
